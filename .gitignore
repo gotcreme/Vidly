@@ -243,3 +243,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Vidly/AppSettings.config
+/Vidly/Properties/PublishProfiles
+/Vidly/Web.Testing.config
